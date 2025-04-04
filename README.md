@@ -1,2 +1,2 @@
 # btree-rs
-Generic b-tree in Rust
+Generic b-tree in Rust.
